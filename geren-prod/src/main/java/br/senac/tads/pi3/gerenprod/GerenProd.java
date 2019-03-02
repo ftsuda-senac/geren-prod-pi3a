@@ -15,6 +15,11 @@ public class GerenProd {
         System.out.println("Teste Maven");
         int i = 0;
         System.out.println("Valor de i++: " + i++);
+        /*
+        Alteração por Giovanni.Carignato
+        */
+        
+        System.out.println("Teste Commit");
         for (int j = 0; j < 10; j++) {
             System.out.println("Valor j: " + j);
         }
