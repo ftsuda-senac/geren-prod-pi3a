@@ -22,6 +22,12 @@ public class GerenProd {
         System.out.println("Teste Commit");
         for (int j = 0; j < 10; j++) {
             System.out.println("Valor j: " + j);
+            
+            /*
+            Alteração por Giovanni.Carignato nº2
+            */
+            
+            System.out.println("Segundo Commit");
         }
     }
     
