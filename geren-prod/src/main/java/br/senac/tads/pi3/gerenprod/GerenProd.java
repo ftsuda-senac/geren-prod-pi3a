@@ -31,6 +31,11 @@ public class GerenProd {
         }
         
         System.out.println("Correção de bug");
+        if (i % 2 == 0) {
+            System.out.println("Número par");
+        } else {
+            System.out.println("Número ímpar");
+        }
     }
     
 }
